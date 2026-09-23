@@ -125,5 +125,5 @@ Topics include:
 ## 📫 Contact
 
 - GitHub: https://github.com/Saad-elnagar
-- LinkedIn: [Your LinkedIn]
+- LinkedIn: https://www.linkedin.com/in/saad-elnager-37761b381
 - Email: saadelnager333@gmail.com
