@@ -2,6 +2,8 @@
 
 ### .NET Backend Developer | C# · ASP.NET Core · SQL Server
 
+![C#](https://img.shields.io/badge/C%23-Developer-239120?logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-10-512BD4?logo=dotnet&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-CC2927?logo=microsoftsqlserver&logoColor=white)
+
 I'm a Computer Science student focused on building reliable backend applications and RESTful APIs with **C# and .NET**. I enjoy turning business requirements into maintainable services, well-designed relational data, and consistent business workflows.
 
 I'm currently deepening my skills in **ASP.NET Core, Entity Framework Core, API design, database transactions, and clean layered architecture**. I'm interested in .NET backend internships and collaborative software projects.
@@ -27,6 +29,7 @@ Git · GitHub · Swagger · Postman · Docker · JetBrains Rider
 ## Featured Projects
 
 ### [Inventory Management System](https://github.com/Saad-elnagar/InventoryManagement)
+[![Build](https://github.com/Saad-elnagar/InventoryManagement/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/Saad-elnagar/InventoryManagement/actions/workflows/tests.yml)
 An ASP.NET Core MVC application for managing products, suppliers, customers, purchases, sales, and inventory movements.
 
 - Tracks stock changes with a movement history for purchases, sales, damage, returns, and adjustments.
@@ -37,6 +40,7 @@ An ASP.NET Core MVC application for managing products, suppliers, customers, pur
 **Built with:** .NET 10 · ASP.NET Core MVC · Entity Framework Core · SQL Server · ASP.NET Core Identity · ML.NET
 
 ### [Talabat E-Commerce API](https://github.com/Saad-elnagar/Talabat)
+[![Build](https://github.com/Saad-elnagar/Talabat/actions/workflows/dotnet-build.yml/badge.svg?branch=master)](https://github.com/Saad-elnagar/Talabat/actions/workflows/dotnet-build.yml)
 A RESTful API project focused on e-commerce backend concepts, including product catalog management and order-related workflows.
 
 - Practices service and data-access separation.
@@ -47,6 +51,7 @@ A RESTful API project focused on e-commerce backend concepts, including product 
 **Built with:** .NET 9 · ASP.NET Core Web API · EF Core · SQL Server · Redis · JWT · Stripe · Scalar
 
 ### [Company Management System](https://github.com/Saad-elnagar/3-Tre-MVC)
+[![Build](https://github.com/Saad-elnagar/3-Tre-MVC/actions/workflows/dotnet-build.yml/badge.svg?branch=master)](https://github.com/Saad-elnagar/3-Tre-MVC/actions/workflows/dotnet-build.yml)
 An ASP.NET Core MVC application organized into presentation, business-logic, and data-access layers.
 
 - Employee and department workflows with dedicated services and repository abstractions.
@@ -58,6 +63,7 @@ An ASP.NET Core MVC application organized into presentation, business-logic, and
 ---
 
 ### [Quantum Radar — Traffic Violation Engine](https://github.com/Saad-elnagar/Fawry.Quantum_Radar)
+[![Build](https://github.com/Saad-elnagar/Fawry.Quantum_Radar/actions/workflows/dotnet-build.yml/badge.svg?branch=main)](https://github.com/Saad-elnagar/Fawry.Quantum_Radar/actions/workflows/dotnet-build.yml)
 A C# console project built around an extensible rule engine.
 
 - Keeps violation checks in separate rule classes through an interface.
