@@ -1,129 +1,76 @@
 # Hi, I'm Saad 👋
 
-### .NET Backend Developer | ASP.NET Core | SQL Server
+### .NET Backend Developer | C# · ASP.NET Core · SQL Server
 
-I'm a Computer Science student focused on building backend applications
-and RESTful APIs using C# and the .NET ecosystem.
+I'm a Computer Science student focused on building reliable backend applications and RESTful APIs with **C# and .NET**. I enjoy turning business requirements into maintainable services, well-designed relational data, and consistent business workflows.
 
-I enjoy building clean, maintainable applications with a strong focus on
-database design, APIs, business logic, and scalable backend architecture.
+I'm currently deepening my skills in **ASP.NET Core, Entity Framework Core, API design, database transactions, and clean layered architecture**. I'm interested in .NET backend internships and collaborative software projects.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### Backend
-- C#
-- ASP.NET Core
-- ASP.NET MVC
-- Entity Framework Core
-- LINQ
-- ADO.NET
-- RESTful APIs
+**Backend**  
+C# · .NET · ASP.NET Core Web API · ASP.NET Core MVC · Entity Framework Core · LINQ · ADO.NET
 
-### Database
-- SQL Server
-- Entity Framework Core
-- Database Design
-- Relational Databases
+**Databases**  
+SQL Server · Relational Database Design
 
-### Architecture & Practices
-- 3-Tier Architecture
-- Clean Architecture
-- Repository Pattern
-- Specification Pattern
-- Dependency Injection
-- SOLID Principles
-- Design Patterns
+**Architecture & Practices**  
+RESTful APIs · 3-Tier Architecture · Repository Pattern · Unit of Work · Dependency Injection · SOLID Principles · Validation · Transaction Management
 
-### Tools
-- Git & GitHub
-- Swagger
-- Postman
-- Docker
-- Rider
+**Developer Tools**  
+Git · GitHub · Swagger · Postman · Docker · JetBrains Rider
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🛒 Talabat E-Commerce API
+### [Inventory Management System](https://github.com/Saad-elnagar/InventoryManagement)
+An ASP.NET Core MVC application for managing products, suppliers, customers, purchases, sales, and inventory movements.
 
-ASP.NET Core RESTful API for an e-commerce platform.
+- Tracks stock changes with a movement history for purchases, sales, damage, returns, and adjustments.
+- Uses layered architecture to separate the UI, business logic, and data access.
+- Includes role-based access, low-stock monitoring, dashboards, reporting, and ML.NET forecasting.
+- Focuses on keeping purchase and sale operations consistent with stock updates.
 
-**Technologies:**
-C#, ASP.NET Core, Entity Framework Core, SQL Server, Redis, JWT, Stripe
+**Built with:** .NET 10 · ASP.NET Core MVC · Entity Framework Core · SQL Server · ASP.NET Core Identity · ML.NET
 
-**Highlights:**
-- RESTful API architecture
-- Authentication & Authorization
-- Generic Repository
-- Specification Pattern
-- Shopping Basket
-- Order Management
-- Redis caching
-- Stripe payment integration
-- Swagger API documentation
+### [Talabat E-Commerce API](https://github.com/Saad-elnagar/Talabat)
+A RESTful API project focused on e-commerce backend concepts, including product catalog management and order-related workflows.
 
----
+- Practices service and data-access separation.
+- Uses Entity Framework Core for relational data access.
+- Explores reusable repository abstractions and query organization.
+- Documents and tests API endpoints with Swagger.
 
-### 🏢 Company Management System
+**Built with:** C# · ASP.NET Core · Entity Framework Core · SQL Server · Swagger
 
-Enterprise-style management system built using ASP.NET MVC and 3-Tier Architecture.
+### [MVC-ITI](https://github.com/Saad-elnagar/MVC-ITI)
+An ASP.NET MVC learning project focused on CRUD workflows, view models, validation, dependency injection, and separating application responsibilities into layers.
 
-**Technologies:**
-C#, ASP.NET MVC, Entity Framework Core, SQL Server
-
-**Highlights:**
-- Presentation / Business / Data Access separation
-- Employee management
-- Department management
-- CRUD operations
-- Dependency Injection
-- Validation
-- Soft Delete
+**Built with:** C# · ASP.NET Core MVC · Entity Framework Core · SQL Server
 
 ---
 
-### 🎓 School Management System
+## Problem Solving
 
-Management system for handling students, courses, departments,
-and academic records.
+I practice Data Structures and Algorithms to strengthen my problem-solving skills.
 
-**Technologies:**
-C#, ASP.NET MVC, Entity Framework Core, SQL Server
-
-**Highlights:**
-- Relational database design
-- CRUD operations
-- Entity relationships
-- MVC architecture
-- Server-side validation
-
----
-
-## 🧠 Problem Solving
-
-I regularly practice Data Structures and Algorithms
-through competitive programming platforms.
-
-Topics include:
-
-- Data Structures
-- Algorithms
-- Recursion
-- Backtracking
+- Data Structures and STL
+- Recursion and Backtracking
 - Binary Search
-- Two Pointers
-- Sliding Window
-- Trees
-- STL
-- Problem Solving
+- Two Pointers and Sliding Window
+- Sorting and Range Queries
 
 ---
 
-## 📫 Contact
+## Connect With Me
 
-- GitHub: https://github.com/Saad-elnagar
-- LinkedIn: https://www.linkedin.com/in/saad-elnager-37761b381
-- Email: saadelnager333@gmail.com
+- **LinkedIn:** [Saad Elnager](https://www.linkedin.com/in/saad-elnager-37761b381)
+- **Email:** [saadelnager333@gmail.com](mailto:saadelnager333@gmail.com)
+- **GitHub:** [Saad-elnagar](https://github.com/Saad-elnagar)
+
+---
+
+*Always learning, building, and improving one project at a time.*
