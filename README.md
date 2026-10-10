@@ -42,14 +42,18 @@ A RESTful API project focused on e-commerce backend concepts, including product 
 - Practices service and data-access separation.
 - Uses Entity Framework Core for relational data access.
 - Explores reusable repository abstractions and query organization.
-- Documents and tests API endpoints with Swagger.
+- Exposes OpenAPI documentation through Scalar.
 
-**Built with:** C# · ASP.NET Core · Entity Framework Core · SQL Server · Swagger
+**Built with:** .NET 9 · ASP.NET Core Web API · EF Core · SQL Server · Redis · JWT · Stripe · Scalar
 
-### [MVC-ITI](https://github.com/Saad-elnagar/MVC-ITI)
-An ASP.NET MVC learning project focused on CRUD workflows, view models, validation, dependency injection, and separating application responsibilities into layers.
+### [Company Management System](https://github.com/Saad-elnagar/3-Tre-MVC)
+An ASP.NET Core MVC application organized into presentation, business-logic, and data-access layers.
 
-**Built with:** C# · ASP.NET Core MVC · Entity Framework Core · SQL Server
+- Employee and department workflows with dedicated services and repository abstractions.
+- View models and AutoMapper to separate UI models from data entities.
+- EF Core, SQL Server, and specification-based employee queries.
+
+**Built with:** C# · ASP.NET Core MVC · Entity Framework Core · SQL Server · AutoMapper
 
 ---
 
