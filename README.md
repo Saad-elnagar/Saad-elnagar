@@ -57,6 +57,17 @@ An ASP.NET Core MVC application organized into presentation, business-logic, and
 
 ---
 
+### [Quantum Radar — Traffic Violation Engine](https://github.com/Saad-elnagar/Fawry.Quantum_Radar)
+A C# console project built around an extensible rule engine.
+
+- Keeps violation checks in separate rule classes through an interface.
+- Evaluates speeding and seatbelt observations.
+- Combines detected violations into fine records and tracks rule counts.
+
+**Built with:** C# · .NET 10 · Object-Oriented Design · Interfaces
+
+---
+
 ## Problem Solving
 
 I practice Data Structures and Algorithms to strengthen my problem-solving skills.
