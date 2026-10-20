@@ -26,15 +26,19 @@ Git · GitHub · Swagger · Postman · Docker · JetBrains Rider
 
 ---
 
-## Open Source Contributions
+## 🌍 Open Source Contributions
 
-I contribute to open-source projects by fixing bugs, improving compatibility, and adding regression tests.
+I contribute to community-maintained projects through **bug fixes, compatibility improvements, and regression tests**. These contributions demonstrate practical debugging, backward-compatibility work, and validation through tests.
 
 <!-- OPEN_SOURCE_CONTRIBUTIONS:START -->
-- [Handle unavailable Redis `MEMORY USAGE` on older servers](https://github.com/beekeeper-studio/beekeeper-studio/pull/4883) — [`beekeeper-studio/beekeeper-studio`](https://github.com/beekeeper-studio/beekeeper-studio)
+**1 merged contribution** · Showing the latest 1
+
+| Contribution | Project | Impact |
+|---|---|---|
+| [Handle unavailable Redis MEMORY USAGE on older servers](https://github.com/beekeeper-studio/beekeeper-studio/pull/4883) | [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) | Keeps Redis key browsing functional when older Redis versions do not support MEMORY USAGE; adds regression tests for supported and unsupported responses. |
 <!-- OPEN_SOURCE_CONTRIBUTIONS:END -->
 
-*This list is refreshed automatically from merged pull requests to external repositories.*
+*This table is refreshed automatically by GitHub Actions from merged pull requests to external repositories.*
 
 ---
 
