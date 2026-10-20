@@ -46,7 +46,7 @@ I contribute to open-source projects through **bug fixes, compatibility improvem
 
 | Contribution | Project | Impact |
 |---|---|---|
-| [Handle unavailable Redis MEMORY USAGE on older servers](https://github.com/beekeeper-studio/beekeeper-studio/pull/4883) | [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) | Keeps Redis key browsing functional when older Redis versions do not support MEMORY USAGE; adds regression tests for supported and unsupported responses. |
+| [Handle unavailable Redis MEMORY USAGE on older servers](https://github.com/beekeeper-studio/beekeeper-studio/pull/4883) | [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) | Keep Redis key loading successful when MEMORY USAGE is unsupported. Cover unsupported and supported memory usage responses. |
 <!-- OPEN_SOURCE_CONTRIBUTIONS:END -->
 
 <details>
