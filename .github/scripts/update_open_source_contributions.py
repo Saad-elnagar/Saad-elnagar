@@ -58,8 +58,10 @@ def render_contributions(payload: dict) -> str:
     if not items:
         return "*No merged pull requests to external repositories found yet.*"
 
+    total_count = payload.get("total_count", len(items))
+    noun = "pull request" if total_count == 1 else "pull requests"
     lines = [
-        f"*{payload.get('total_count', len(items))} merged external pull request(s) found; showing the latest {min(MAX_DISPLAYED, len(items))}.*",
+        f"*{total_count} merged external {noun} found; showing the latest {min(MAX_DISPLAYED, len(items))}.*",
         "",
     ]
 
