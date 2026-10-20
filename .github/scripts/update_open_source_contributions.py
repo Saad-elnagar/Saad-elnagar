@@ -70,7 +70,7 @@ def render_contributions(payload: dict) -> str:
         prefix = "https://api.github.com/repos/"
         if repository_api_url.startswith(prefix):
             repository = repository_api_url[len(prefix):]
-            repository_link = f"[\`{repository}\`](https://github.com/{repository})"
+            repository_link = f"[{repository}](https://github.com/{repository})"
             lines.append(f"- [{title}]({pr_url}) — {repository_link}")
         else:
             lines.append(f"- [{title}]({pr_url})")
