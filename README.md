@@ -10,7 +10,7 @@ I'm currently deepening my skills in **ASP.NET Core, Entity Framework Core, API 
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
 **Backend**  
 C# · .NET · ASP.NET Core Web API · ASP.NET Core MVC · Entity Framework Core · LINQ · ADO.NET
@@ -26,26 +26,47 @@ Git · GitHub · Swagger · Postman · Docker · JetBrains Rider
 
 ---
 
-## 🌍 Open Source Contributions
+## 🌍 Open Source
 
-I contribute to community-maintained projects through **bug fixes, compatibility improvements, and regression tests**. These contributions demonstrate practical debugging, backward-compatibility work, and validation through tests.
+I contribute to open-source projects through **bug fixes, compatibility improvements, regression tests, and build/packaging cleanup**. I value focused changes, reproducible validation, and clear communication with maintainers.
+
+<p align="center">
+  <a href="https://github.com/Saad-elnagar/open-source-contributions">
+    <img src="https://img.shields.io/badge/Explore-My%20Open%20Source%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my open-source portfolio" />
+  </a>
+  <a href="https://github.com/Saad-elnagar?tab=repositories">
+    <img src="https://img.shields.io/badge/View-All%20Repositories-2F80ED?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
+  </a>
+</p>
+
+### Selected contributions
 
 <!-- OPEN_SOURCE_CONTRIBUTIONS:START -->
 **1 merged contribution** · Showing the latest 1
 
 | Contribution | Project | Impact |
 |---|---|---|
-| [Handle unavailable Redis MEMORY USAGE on older servers](https://github.com/beekeeper-studio/beekeeper-studio/pull/4883) | [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) | Keeps Redis key browsing functional when older Redis versions do not support MEMORY USAGE; adds regression tests for supported and unsupported responses. |
+| [Handle unavailable Redis MEMORY USAGE on older servers](https://github.com/beekeeper-studio/beekeeper-studio/pull/4883) | [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) | Keeps Redis key browsing functional when older Redis versions do not support MEMORY USAGE; adds regression tests for supported and unsupported responses. |
 <!-- OPEN_SOURCE_CONTRIBUTIONS:END -->
 
-*This table is refreshed automatically by GitHub Actions from merged pull requests to external repositories.*
+<details>
+  <summary><strong>More open-source work</strong></summary>
+
+  - **[SkiaSharp #5403 — Remove obsolete libmicrohttpd notice](https://github.com/mono/SkiaSharp/pull/5403)** — Open PR focused on keeping third-party license notices accurate; includes targeted validation of generated notice content.
+  - **[Facepunch s&box #12157](https://github.com/Facepunch/sbox-public/issues/12157#issuecomment-6291251506)** — Community discussion about project defaults and shader-related files.
+
+  See the [full contribution log](https://github.com/Saad-elnagar/open-source-contributions) for details and current statuses.
+</details>
+
+*The table above is refreshed automatically by GitHub Actions from merged pull requests to external repositories. The portfolio link also includes open pull requests and issue discussions.*
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### [Inventory Management System](https://github.com/Saad-elnagar/InventoryManagement)
 [![Build](https://github.com/Saad-elnagar/InventoryManagement/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/Saad-elnagar/InventoryManagement/actions/workflows/tests.yml)
+
 An ASP.NET Core MVC application for managing products, suppliers, customers, purchases, sales, and inventory movements.
 
 - Tracks stock changes with a movement history for purchases, sales, damage, returns, and adjustments.
@@ -57,6 +78,7 @@ An ASP.NET Core MVC application for managing products, suppliers, customers, pur
 
 ### [Talabat E-Commerce API](https://github.com/Saad-elnagar/Talabat)
 [![Build](https://github.com/Saad-elnagar/Talabat/actions/workflows/dotnet-build.yml/badge.svg?branch=master)](https://github.com/Saad-elnagar/Talabat/actions/workflows/dotnet-build.yml)
+
 A RESTful API project focused on e-commerce backend concepts, including product catalog management and order-related workflows.
 
 - Practices service and data-access separation.
@@ -68,6 +90,7 @@ A RESTful API project focused on e-commerce backend concepts, including product 
 
 ### [Company Management System](https://github.com/Saad-elnagar/3-Tre-MVC)
 [![Build](https://github.com/Saad-elnagar/3-Tre-MVC/actions/workflows/dotnet-build.yml/badge.svg?branch=master)](https://github.com/Saad-elnagar/3-Tre-MVC/actions/workflows/dotnet-build.yml)
+
 An ASP.NET Core MVC application organized into presentation, business-logic, and data-access layers.
 
 - Employee and department workflows with dedicated services and repository abstractions.
@@ -76,10 +99,9 @@ An ASP.NET Core MVC application organized into presentation, business-logic, and
 
 **Built with:** C# · ASP.NET Core MVC · Entity Framework Core · SQL Server · AutoMapper
 
----
-
 ### [Quantum Radar — Traffic Violation Engine](https://github.com/Saad-elnagar/Fawry.Quantum_Radar)
 [![Build](https://github.com/Saad-elnagar/Fawry.Quantum_Radar/actions/workflows/dotnet-build.yml/badge.svg?branch=main)](https://github.com/Saad-elnagar/Fawry.Quantum_Radar/actions/workflows/dotnet-build.yml)
+
 A C# console project built around an extensible rule engine.
 
 - Keeps violation checks in separate rule classes through an interface.
@@ -90,7 +112,7 @@ A C# console project built around an extensible rule engine.
 
 ---
 
-## Problem Solving
+## 🧠 Problem Solving
 
 I practice Data Structures and Algorithms to strengthen my problem-solving skills.
 
@@ -102,7 +124,7 @@ I practice Data Structures and Algorithms to strengthen my problem-solving skill
 
 ---
 
-## Connect With Me
+## 🤝 Connect With Me
 
 - **LinkedIn:** [Saad Elnager](https://www.linkedin.com/in/saad-elnager-37761b381)
 - **Email:** [saadelnager333@gmail.com](mailto:saadelnager333@gmail.com)
