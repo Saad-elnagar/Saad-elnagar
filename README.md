@@ -26,6 +26,18 @@ Git · GitHub · Swagger · Postman · Docker · JetBrains Rider
 
 ---
 
+## Open Source Contributions
+
+I contribute to open-source projects by fixing bugs, improving compatibility, and adding regression tests.
+
+<!-- OPEN_SOURCE_CONTRIBUTIONS:START -->
+- [Handle unavailable Redis `MEMORY USAGE` on older servers](https://github.com/beekeeper-studio/beekeeper-studio/pull/4883) — [`beekeeper-studio/beekeeper-studio`](https://github.com/beekeeper-studio/beekeeper-studio)
+<!-- OPEN_SOURCE_CONTRIBUTIONS:END -->
+
+*This list is refreshed automatically from merged pull requests to external repositories.*
+
+---
+
 ## Featured Projects
 
 ### [Inventory Management System](https://github.com/Saad-elnagar/InventoryManagement)
