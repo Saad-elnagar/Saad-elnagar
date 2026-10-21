@@ -26,7 +26,7 @@ Git · GitHub · Swagger · Postman · Docker · JetBrains Rider
 
 ---
 
-## 🌍 Open Source
+## 🌍 Open Source Contributions
 
 I contribute to open-source projects through **bug fixes, compatibility improvements, regression tests, and build/packaging cleanup**. I value focused changes, reproducible validation, and clear communication with maintainers.
 
@@ -34,31 +34,23 @@ I contribute to open-source projects through **bug fixes, compatibility improvem
   <a href="https://github.com/Saad-elnagar/open-source-contributions">
     <img src="https://img.shields.io/badge/Explore-My%20Open%20Source%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my open-source portfolio" />
   </a>
-  <a href="https://github.com/Saad-elnagar?tab=repositories">
-    <img src="https://img.shields.io/badge/View-All%20Repositories-2F80ED?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
-  </a>
 </p>
 
-### Selected contributions
-
-<!-- OPEN_SOURCE_CONTRIBUTIONS:START -->
-**1 merged contribution** · Showing the latest 1
+### Merged contributions
 
 | Contribution | Project | Impact |
 |---|---|---|
-| [Handle unavailable Redis MEMORY USAGE on older servers](https://github.com/beekeeper-studio/beekeeper-studio/pull/4883) | [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) | Keep Redis key loading successful when MEMORY USAGE is unsupported. Cover unsupported and supported memory usage responses. |
-<!-- OPEN_SOURCE_CONTRIBUTIONS:END -->
+| [Remove legacy JSON output implementation — PR #7234](https://github.com/thomhurst/TUnit/pull/7234) | [TUnit](https://github.com/thomhurst/TUnit) | Removed unused JSON output infrastructure, obsolete serialization models, skipped tests, and unsupported CLI documentation. Build and engine tests passed. |
+| [Handle unavailable Redis MEMORY USAGE on older servers — PR #4883](https://github.com/beekeeper-studio/beekeeper-studio/pull/4883) | [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) | Kept Redis key loading working when older servers do not support `MEMORY USAGE`; added regression tests. |
 
 <details>
   <summary><strong>More open-source work</strong></summary>
 
-  - **[SkiaSharp #5403 — Remove obsolete libmicrohttpd notice](https://github.com/mono/SkiaSharp/pull/5403)** — Open PR focused on keeping third-party license notices accurate; includes targeted validation of generated notice content.
-  - **[Facepunch s&box #12157](https://github.com/Facepunch/sbox-public/issues/12157#issuecomment-6291251506)** — Community discussion about project defaults and shader-related files.
+  - **[SkiaSharp PR #5403](https://github.com/mono/SkiaSharp/pull/5403)** — Open PR removing an obsolete `libmicrohttpd` third-party license notice; targeted generated-notice validation performed.
+  - **[Facepunch s&box Issue #12157](https://github.com/Facepunch/sbox-public/issues/12157#issuecomment-6291251506)** — Community discussion about project defaults and shader-related files.
 
   See the [full contribution log](https://github.com/Saad-elnagar/open-source-contributions) for details and current statuses.
 </details>
-
-*The table above is refreshed automatically by GitHub Actions from merged pull requests to external repositories. The portfolio link also includes open pull requests and issue discussions.*
 
 ---
 
